@@ -1,0 +1,23 @@
+{
+    "name": "mcenirm/jsonselect-php",
+    "description": "Port of JSONselect to PHP",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Observu",
+            "email": "info@observu.com",
+            "homepage": "https://github.com/observu",
+            "role": "Developer"
+        },
+        {
+            "name": "Michiel van Vlaardingen",
+            "email": "michiel@vanvlaardingen.com",
+            "homepage": "https://github.com/michielvv",
+            "role": "Developer"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-0": { "": "src/" }
+    }
+}

@@ -2,3 +2,4 @@ JSONSelectTests/
 assets/
 protected/runtime/
 themes/classic/views/
+/vendor/
