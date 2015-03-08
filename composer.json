@@ -18,6 +18,6 @@
     ],
     "require": {},
     "autoload": {
-        "psr-0": { "": "src/" }
+        "psr-0": { "JSONSelect": "src/" }
     }
 }
